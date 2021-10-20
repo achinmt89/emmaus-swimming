@@ -15,3 +15,11 @@ Simple [Streamlit.io](https://streamlit.io) web app with link (URL) to existing 
 ## MVP Specification / Architecture
 
 TODO: With Aaron.
+
+
+## TODOs
+
+- Help Aaron setup his MacBook
+- Finish of Mick's project & test
+- Prototype Beach Safe app / learn Streamlit.io
+
