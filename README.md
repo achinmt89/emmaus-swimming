@@ -19,7 +19,8 @@ TODO: With Aaron.
 
 ## TODOs
 
-- Help Aaron setup his MacBook
-- Finish of Mick's project & test
-- Prototype Beach Safe app / learn Streamlit.io
-
+- Help Aaron setup his iMac - DONE
+- Finish off Mick's project & test - PARK
+- Prototype Beach Safe app - IN PROGRESS
+- learn Streamlit.io - AARON
+- Ensure compliance with acceptable use of data terms - HOLD
