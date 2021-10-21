@@ -10,7 +10,7 @@ TODO: With Aaron :)
 
 ## Prototype
 
-Simple [Streamlit.io](https://streamlit.io) web app with link (URL) to existing NSW Environment solution.
+Simple [Streamlit.io](https://streamlit.io) web app with [link](https://www.environment.nsw.gov.au/beachmapp/Beach/WoolwichBaths) to existing NSW Environment solution.
 
 ## MVP Specification / Architecture
 
