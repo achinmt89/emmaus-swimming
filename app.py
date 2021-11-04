@@ -8,7 +8,11 @@ st.write("BeachSafe by DataBooth.com.au")
 
 st.markdown(bs_URL)
 
-# Add a slider:
+# Input location
+title = st.text_input("We will find an ideal beach near:")
+st.write("Finding an ideal beach near:", title)
+
+# Input temperature:
     # add_slider = st.sidebar.slider(
 add_slider = st.slider(
 'What do you consider as the ideal temperature range?',
